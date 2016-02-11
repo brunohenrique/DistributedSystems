@@ -10,6 +10,7 @@ I would appreciate content indication :smile:
 
 #### Books
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html) - [Mikito Takada](https://twitter.com/mikitotakada)
+- [Everything Is Distributed](http://www.oreilly.com/webops-perf/free/everything-is-distributed.csp)
 
 #### Talks
 - [Distributed Systems Archaeology](http://michaelrbernste.in/2013/11/22/distributed-systems-archaeology.html) - [Michael R. Bernstein](https://twitter.com/mrb_bk)
