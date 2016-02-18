@@ -7,6 +7,7 @@ I would appreciate content indication :smile:
 #### Blog posts
 - [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [You Can’t Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/)
+- [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 
 #### Books
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html) - [Mikito Takada](https://twitter.com/mikitotakada)
