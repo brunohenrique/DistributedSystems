@@ -7,6 +7,7 @@ I would appreciate content indication :smile:
 #### Papers
 - [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
 - [A Critique of the CAP Theorem](http://arxiv.org/pdf/1509.05393v2.pdf)
+- [In Search of an Understandable Consensus Algorithm (Extended Version)](http://ramcloud.stanford.edu/raft.pdf)
 
 #### Books
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html) - [Mikito Takada](https://twitter.com/mikitotakada)
@@ -21,3 +22,5 @@ I would appreciate content indication :smile:
 - [Distributed Systems Archaeology](http://michaelrbernste.in/2013/11/22/distributed-systems-archaeology.html) - [Michael R. Bernstein](https://twitter.com/mrb_bk)
 - [Designs, Lessons and Advice from Building Large Distributed Systems](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 
+### Tutorials
+- [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
