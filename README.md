@@ -18,6 +18,7 @@ I would appreciate content indication :smile:
 - [You Can’t Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/)
 - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [The Network Is Never There for You](https://medium.com/@myobie/the-network-is-never-there-for-you-950db56be2a4)
+- [Eventually Consistent - Revisited](http://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 
 #### Talks
 - [Distributed Systems Archaeology](http://michaelrbernste.in/2013/11/22/distributed-systems-archaeology.html) - [Michael R. Bernstein](https://twitter.com/mrb_bk)
