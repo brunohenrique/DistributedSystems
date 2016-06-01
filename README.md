@@ -25,6 +25,7 @@ I would appreciate content indication :smile:
 - [Designs, Lessons and Advice from Building Large Distributed Systems](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 - [Distributed, Eventually Consistent Computations](https://www.youtube.com/watch?v=lsKaNDj4TrE) - [C. Scott Meiklejohn](https://twitter.com/cmeik)
 - [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) - [Camille Fournier](https://twitter.com/skamille)
+- [Building Scalable Stateful Services](https://www.youtube.com/watch?v=H0i_bXKwujQ) - [Caitie McCaffrey](https://twitter.com/caitie)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
