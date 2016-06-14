@@ -26,6 +26,7 @@ I would appreciate content indication :smile:
 - [Distributed, Eventually Consistent Computations](https://www.youtube.com/watch?v=lsKaNDj4TrE) - [C. Scott Meiklejohn](https://twitter.com/cmeik)
 - [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) - [Camille Fournier](https://twitter.com/skamille)
 - [Building Scalable Stateful Services](https://www.youtube.com/watch?v=H0i_bXKwujQ) - [Caitie McCaffrey](https://twitter.com/caitie)
+- [Jepsen IV: Hope Springs Eternal](http://www.ustream.tv/recorded/61443262) - [Kyle Kingsbury](https://twitter.com/aphyr)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
