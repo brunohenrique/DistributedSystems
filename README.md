@@ -27,6 +27,7 @@ I would appreciate content indication :smile:
 - [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) - [Camille Fournier](https://twitter.com/skamille)
 - [Building Scalable Stateful Services](https://www.youtube.com/watch?v=H0i_bXKwujQ) - [Caitie McCaffrey](https://twitter.com/caitie)
 - [Jepsen IV: Hope Springs Eternal](http://www.ustream.tv/recorded/61443262) - [Kyle Kingsbury](https://twitter.com/aphyr)
+- [Call Me Maybe: Carly Rae Jepsen and the Perils of Network Partitions](https://www.youtube.com/watch?v=mxdpqr-loyA) - [Kyle Kingsbury](https://twitter.com/aphyr)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
