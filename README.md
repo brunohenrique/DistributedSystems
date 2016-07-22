@@ -28,6 +28,7 @@ I would appreciate content indication :smile:
 - [Building Scalable Stateful Services](https://www.youtube.com/watch?v=H0i_bXKwujQ) - [Caitie McCaffrey](https://twitter.com/caitie)
 - [Jepsen IV: Hope Springs Eternal](http://www.ustream.tv/recorded/61443262) - [Kyle Kingsbury](https://twitter.com/aphyr)
 - [Call Me Maybe: Carly Rae Jepsen and the Perils of Network Partitions](https://www.youtube.com/watch?v=mxdpqr-loyA) - [Kyle Kingsbury](https://twitter.com/aphyr)
+- [Building reliable distributed data systems: lessons from the field](https://www.infoq.com/br/presentations/building-reliable-distributed-data-systems) - [Jeremy Edberg](https://twitter.com/jedberg)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
