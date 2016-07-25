@@ -29,6 +29,7 @@ I would appreciate content indication :smile:
 - [Jepsen IV: Hope Springs Eternal](http://www.ustream.tv/recorded/61443262) - [Kyle Kingsbury](https://twitter.com/aphyr)
 - [Call Me Maybe: Carly Rae Jepsen and the Perils of Network Partitions](https://www.youtube.com/watch?v=mxdpqr-loyA) - [Kyle Kingsbury](https://twitter.com/aphyr)
 - [Building reliable distributed data systems: lessons from the field](https://www.infoq.com/br/presentations/building-reliable-distributed-data-systems) - [Jeremy Edberg](https://twitter.com/jedberg)
+- [Scalable Weakly-consistent Infection-style Process Group Membership Protocol](https://www.youtube.com/watch?v=aVYEY75qn3c) - [Armon Dadgar](https://twitter.com/armon)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
