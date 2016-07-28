@@ -8,6 +8,7 @@ I would appreciate content indication :smile:
 - [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
 - [A Critique of the CAP Theorem](http://arxiv.org/pdf/1509.05393v2.pdf)
 - [In Search of an Understandable Consensus Algorithm (Extended Version)](http://ramcloud.stanford.edu/raft.pdf)
+- [Epidemic algorithms for replicated database maintenance](https://dl.acm.org/citation.cfm?doid=41840.41841)
 
 #### Books
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html) - [Mikito Takada](https://twitter.com/mikitotakada)
