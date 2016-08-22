@@ -34,3 +34,11 @@ I would appreciate content indication :smile:
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
+
+### Other sources
+- [Distributed systems theory for the distributed systems engineer](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/) by [Paper Trail](http://the-paper-trail.org/)
+- [Class materials for a distributed systems lecture series](https://github.com/aphyr/distsys-class) by [Kyle Kingsbury](https://github.com/aphyr)
+- [How to get started with infrastructure and distributed systems](http://codecapsule.com/2016/01/03/how-to-get-started-with-infrastructure-and-distributed-systems/) by [Emmanuel Goossaert](https://github.com/goossaert)
+- [Gossip papers](https://softwarecarnival.blogspot.com.br/2014/07/gossip-papers.html) by [Jason Brown](https://softwarecarnival.blogspot.com.br/)
+- [Distributed systems readings](https://henryr.github.io/distributed-systems-readings/) by [henryr](https://github.com/henryr)
+- [A Distributed Systems Reading List](https://dancres.github.io/Pages/) by [Dan Creswell](https://github.com/dancres)
