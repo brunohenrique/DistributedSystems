@@ -33,6 +33,7 @@ I would appreciate content indication :smile:
 - [Scalable Weakly-consistent Infection-style Process Group Membership Protocol](https://www.youtube.com/watch?v=aVYEY75qn3c) - [Armon Dadgar](https://twitter.com/armon)
 - [The Mysteries of Dropbox](https://vimeo.com/158002499) - [John Hughes](@rjmh)
 - [QuickChecking Riak](https://skillsmatter.com/skillscasts/4505-quickchecking-riak) - [John Hughes](@rjmh)
+- [Race Conditions, Distribution, Interactions—Testing the Hard Stuff and Staying Sane](https://vimeo.com/68383317) - [John Hughes](@rjmh)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
