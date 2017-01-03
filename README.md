@@ -34,6 +34,7 @@ I would appreciate content indication :smile:
 - [The Mysteries of Dropbox](https://vimeo.com/158002499) - [John Hughes](@rjmh)
 - [QuickChecking Riak](https://skillsmatter.com/skillscasts/4505-quickchecking-riak) - [John Hughes](@rjmh)
 - [Race Conditions, Distribution, Interactions—Testing the Hard Stuff and Staying Sane](https://vimeo.com/68383317) - [John Hughes](@rjmh)
+- [Load Balancing is Impossible](https://www.youtube.com/watch?v=gas2v1emubU) - [Tyler McMullen](https://twitter.com/tbmcmullen)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
