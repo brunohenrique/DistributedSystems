@@ -21,6 +21,7 @@ I would appreciate content indication :smile:
 - [The Network Is Never There for You](https://medium.com/@myobie/the-network-is-never-there-for-you-950db56be2a4)
 - [Eventually Consistent - Revisited](http://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 - [Microservices and the First Law of Distributed Objects](http://philcalcado.com/2017/03/02/microservices_vs_1st_law_distributed_objects.html)
+- [Gryadka is not Paxos, so it's probably wrong](https://tschottdorf.github.io/if-its-not-paxos-its-probably-wrong-gryadka)
 
 #### Talks
 - [Distributed Systems Archaeology](http://michaelrbernste.in/2013/11/22/distributed-systems-archaeology.html) - [Michael R. Bernstein](https://twitter.com/mrb_bk)
