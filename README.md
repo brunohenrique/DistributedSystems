@@ -38,6 +38,7 @@ I would appreciate content indication :smile:
 - [Race Conditions, Distribution, Interactions—Testing the Hard Stuff and Staying Sane](https://vimeo.com/68383317) - [John Hughes](https://twitter.com/rjmh)
 - [Load Balancing is Impossible](https://www.youtube.com/watch?v=gas2v1emubU) - [Tyler McMullen](https://twitter.com/tbmcmullen)
 - [Testing Distributed Systems w/ Deterministic Simulation](https://www.youtube.com/watch?v=4fFDFbi3toc) - [Will Wilson](https://twitter.com/wawilsoniv)
+- [Our Concurrent Past; Our Distributed Future](https://www.infoq.com/presentations/concurrency-distributed-computing) - [Joe Duffy](https://twitter.com/xjoeduffyx)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
