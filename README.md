@@ -39,6 +39,7 @@ I would appreciate content indication :smile:
 - [Load Balancing is Impossible](https://www.youtube.com/watch?v=gas2v1emubU) - [Tyler McMullen](https://twitter.com/tbmcmullen)
 - [Testing Distributed Systems w/ Deterministic Simulation](https://www.youtube.com/watch?v=4fFDFbi3toc) - [Will Wilson](https://twitter.com/wawilsoniv)
 - [Our Concurrent Past; Our Distributed Future](https://www.infoq.com/presentations/concurrency-distributed-computing) - [Joe Duffy](https://twitter.com/xjoeduffyx)
+- [Kiran Bhattaram on Failure Detectors](https://www.youtube.com/watch?v=lwgH2GEos8k) - [Kiran Bhattaram](https://twitter.com/kiranb)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
