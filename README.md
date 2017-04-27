@@ -41,6 +41,7 @@ I would appreciate content indication :smile:
 - [Our Concurrent Past; Our Distributed Future](https://www.infoq.com/presentations/concurrency-distributed-computing) - [Joe Duffy](https://twitter.com/xjoeduffyx)
 - [Kiran Bhattaram on Failure Detectors](https://www.youtube.com/watch?v=lwgH2GEos8k) - [Kiran Bhattaram](https://twitter.com/kiranb)
 - [Neha Narula - Consistency and Candy Crush](https://www.dotconferences.com/2015/06/neha-narula-consistency-and-candy-crush) - [Neha Narula](https://twitter.com/neha)
+- [Jepsen IV: Hope Springs Eternal](https://www.dotconferences.com/2015/06/kyle-kingsbury-jepsen-iv-hope-springs-eternal) - [Kyle Kingsbury](https://twitter.com/aphyr)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
