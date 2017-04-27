@@ -40,6 +40,7 @@ I would appreciate content indication :smile:
 - [Testing Distributed Systems w/ Deterministic Simulation](https://www.youtube.com/watch?v=4fFDFbi3toc) - [Will Wilson](https://twitter.com/wawilsoniv)
 - [Our Concurrent Past; Our Distributed Future](https://www.infoq.com/presentations/concurrency-distributed-computing) - [Joe Duffy](https://twitter.com/xjoeduffyx)
 - [Kiran Bhattaram on Failure Detectors](https://www.youtube.com/watch?v=lwgH2GEos8k) - [Kiran Bhattaram](https://twitter.com/kiranb)
+- [Neha Narula - Consistency and Candy Crush](https://www.dotconferences.com/2015/06/neha-narula-consistency-and-candy-crush) - [Neha Narula](https://twitter.com/neha)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
