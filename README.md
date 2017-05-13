@@ -42,6 +42,7 @@ I would appreciate content indication :smile:
 - [Kiran Bhattaram on Failure Detectors](https://www.youtube.com/watch?v=lwgH2GEos8k) - [Kiran Bhattaram](https://twitter.com/kiranb)
 - [Neha Narula - Consistency and Candy Crush](https://www.dotconferences.com/2015/06/neha-narula-consistency-and-candy-crush) - [Neha Narula](https://twitter.com/neha)
 - [Jepsen IV: Hope Springs Eternal](https://www.dotconferences.com/2015/06/kyle-kingsbury-jepsen-iv-hope-springs-eternal) - [Kyle Kingsbury](https://twitter.com/aphyr)
+- [Jepsen 7: Anna Concurrenina](https://aphyr.com/posts/343-scala-days-2017-jepsen-keynote) - [Kyle Kingsbury](https://twitter.com/aphyr)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
