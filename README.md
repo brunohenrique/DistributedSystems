@@ -43,6 +43,7 @@ I would appreciate content indication :smile:
 - [Neha Narula - Consistency and Candy Crush](https://www.dotconferences.com/2015/06/neha-narula-consistency-and-candy-crush) - [Neha Narula](https://twitter.com/neha)
 - [Jepsen IV: Hope Springs Eternal](https://www.dotconferences.com/2015/06/kyle-kingsbury-jepsen-iv-hope-springs-eternal) - [Kyle Kingsbury](https://twitter.com/aphyr)
 - [Jepsen 7: Anna Concurrenina](https://aphyr.com/posts/343-scala-days-2017-jepsen-keynote) - [Kyle Kingsbury](https://twitter.com/aphyr)
+- [Testing Apache Cassandra with Jepsen: How to Understand and Produce Safe Distributed Systems](https://www.youtube.com/watch?v=OnG1FCr5WTI) - [Joel Knighton](https://twitter.com/joelknighton)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
