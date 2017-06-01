@@ -46,6 +46,7 @@ I would appreciate content indication :smile:
 - [Testing Apache Cassandra with Jepsen: How to Understand and Produce Safe Distributed Systems](https://www.youtube.com/watch?v=OnG1FCr5WTI) - [Joel Knighton](https://twitter.com/joelknighton)
 - [The Anatomy of a Distributed System](https://www.youtube.com/watch?v=Ff1ck1LW1js) - [Tyler McMullen](https://twitter.com/tbmcmullen)
 - [A Brief History of Logical Time](https://www.youtube.com/watch?v=b_swtL5bxJg) - [John Daily](https://twitter.com/macintux)
+- [How to Have your Causality and Wall Clocks, Too](https://www.youtube.com/watch?v=YqNGbvFHoKM) - [Jon Moore](https://twitter.com/jon_moore)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
