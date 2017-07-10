@@ -48,6 +48,7 @@ I would appreciate content indication :smile:
 - [The Anatomy of a Distributed System](https://www.youtube.com/watch?v=Ff1ck1LW1js) - [Tyler McMullen](https://twitter.com/tbmcmullen)
 - [A Brief History of Logical Time](https://www.youtube.com/watch?v=b_swtL5bxJg) - [John Daily](https://twitter.com/macintux)
 - [How to Have your Causality and Wall Clocks, Too](https://www.youtube.com/watch?v=YqNGbvFHoKM) - [Jon Moore](https://twitter.com/jon_moore)
+- [Without Resilience, Nothing Else Matters](https://www.youtube.com/watch?v=ktBlGj5gGUY) - [Jonas Bonér](https://twitter.com/jboner)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
