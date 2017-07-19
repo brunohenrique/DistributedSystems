@@ -49,6 +49,7 @@ I would appreciate content indication :smile:
 - [A Brief History of Logical Time](https://www.youtube.com/watch?v=b_swtL5bxJg) - [John Daily](https://twitter.com/macintux)
 - [How to Have your Causality and Wall Clocks, Too](https://www.youtube.com/watch?v=YqNGbvFHoKM) - [Jon Moore](https://twitter.com/jon_moore)
 - [Without Resilience, Nothing Else Matters](https://www.youtube.com/watch?v=ktBlGj5gGUY) - [Jonas Bonér](https://twitter.com/jboner)
+- [Managing 10,000 Node Storage Clusters at Twitter](https://www.youtube.com/watch?v=ff5k5j24dOs) - [Boaz Avital](https://twitter.com/bx)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
