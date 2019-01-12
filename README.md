@@ -27,6 +27,7 @@ I would appreciate content indication :smile:
 - [Pattern: Service Mesh](http://philcalcado.com/2017/08/03/pattern_service_mesh.html)
 - [Distributed Systems Archaeology: Ricon West, 2013.10.30](http://michaelrbernste.in/2013/11/22/distributed-systems-archaeology.html)
 - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [History of Epidemics](https://www.allthingsdistributed.com/historical/archives/000451.html)
 
 #### Talks
 - [Distributed Systems Archaeology](http://michaelrbernste.in/2013/11/22/distributed-systems-archaeology.html) - [Michael R. Bernstein](https://twitter.com/mrb_bk)
