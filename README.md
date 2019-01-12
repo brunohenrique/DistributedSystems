@@ -57,6 +57,7 @@ I would appreciate content indication :smile:
 - [Without Resilience, Nothing Else Matters](https://www.youtube.com/watch?v=ktBlGj5gGUY) - [Jonas Bonér](https://twitter.com/jboner)
 - [Managing 10,000 Node Storage Clusters at Twitter](https://www.youtube.com/watch?v=ff5k5j24dOs) - [Boaz Avital](https://twitter.com/bx)
 - [Why We Built Our Own Distributed Column Store](https://www.youtube.com/watch?v=tr2KcekX2kk) - [Sam Stokes](https://twitter.com/samstokes)
+- [Effortless Eventual Consistency with Weave Mesh](https://www.infoq.com/presentations/weave-mesh) - [Peter Bourgon](https://peter.bourgon.org/) and [Matthias Radestock](https://github.com/rade)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
