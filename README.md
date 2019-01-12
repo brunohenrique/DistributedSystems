@@ -59,6 +59,7 @@ I would appreciate content indication :smile:
 - [Managing 10,000 Node Storage Clusters at Twitter](https://www.youtube.com/watch?v=ff5k5j24dOs) - [Boaz Avital](https://twitter.com/bx)
 - [Why We Built Our Own Distributed Column Store](https://www.youtube.com/watch?v=tr2KcekX2kk) - [Sam Stokes](https://twitter.com/samstokes)
 - [Effortless Eventual Consistency with Weave Mesh](https://www.infoq.com/presentations/weave-mesh) - [Peter Bourgon](https://peter.bourgon.org/) and [Matthias Radestock](https://github.com/rade)
+- [Real-time Collaborative Editing with CRDTs](https://www.infoq.com/presentations/crdt-tachyon-collaborative-editing) - [Nathan Sobo](https://twitter.com/nathansobo)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
