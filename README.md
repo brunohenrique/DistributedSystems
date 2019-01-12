@@ -25,6 +25,7 @@ I would appreciate content indication :smile:
 - [A TLA+ specification for Gryadka](https://medium.com/@grogepodge/tla-specification-for-gryadka-c80cd625944e)
 - [Consistent Hashing with Bounded Loads](https://research.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html)
 - [Pattern: Service Mesh](http://philcalcado.com/2017/08/03/pattern_service_mesh.html)
+- [Distributed Systems Archaeology: Ricon West, 2013.10.30](http://michaelrbernste.in/2013/11/22/distributed-systems-archaeology.html)
 
 #### Talks
 - [Distributed Systems Archaeology](http://michaelrbernste.in/2013/11/22/distributed-systems-archaeology.html) - [Michael R. Bernstein](https://twitter.com/mrb_bk)
