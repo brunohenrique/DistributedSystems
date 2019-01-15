@@ -60,6 +60,7 @@ I would appreciate content indication :smile:
 - [Why We Built Our Own Distributed Column Store](https://www.youtube.com/watch?v=tr2KcekX2kk) - [Sam Stokes](https://twitter.com/samstokes)
 - [Effortless Eventual Consistency with Weave Mesh](https://www.infoq.com/presentations/weave-mesh) - [Peter Bourgon](https://peter.bourgon.org/) and [Matthias Radestock](https://github.com/rade)
 - [Real-time Collaborative Editing with CRDTs](https://www.infoq.com/presentations/crdt-tachyon-collaborative-editing) - [Nathan Sobo](https://twitter.com/nathansobo)
+- [Orchestrated Chaos: Applying Failure Testing Research at Scale](https://www.youtube.com/watch?v=QOTNBKx9Irc) - [Peter Alvaro](https://twitter.com/palvaro)
 
 ### Tutorials
 - [The Secret Lives of Data - Raft](http://thesecretlivesofdata.com/raft/)
